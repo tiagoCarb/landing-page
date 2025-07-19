@@ -87,3 +87,39 @@ a {
     gap: 100px;
     background-color: #1f2937;
 }
+
+.info-title {
+    text-align: center;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+
+.info-img {
+    height: 170px;
+    width: 170px;
+    border: solid #3882f6;
+    border-radius: 10px;
+}
+
+.info {
+    color: gray;
+    max-width: 170px;
+    text-align: center;
+}
+
+.info-text {
+    margin-top: 8px;
+}
+
+.info-container {
+    display: flex;
+    flex-basis: 170px;
+    justify-content: center;
+    gap: 52px;
+}
+
+.information {
+    padding: 60px 200px;
+}
